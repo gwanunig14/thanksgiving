@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thanksgiving/static/css/main.96f88f42.css",
+    "main.js": "/thanksgiving/static/js/main.03976b5e.js",
+    "static/js/787.ab928d4d.chunk.js": "/thanksgiving/static/js/787.ab928d4d.chunk.js",
+    "index.html": "/thanksgiving/index.html",
+    "main.96f88f42.css.map": "/thanksgiving/static/css/main.96f88f42.css.map",
+    "main.03976b5e.js.map": "/thanksgiving/static/js/main.03976b5e.js.map",
+    "787.ab928d4d.chunk.js.map": "/thanksgiving/static/js/787.ab928d4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f88f42.css",
+    "static/js/main.03976b5e.js"
+  ]
+}
